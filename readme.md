@@ -14,8 +14,8 @@ All solutions are implemented in python 3, unless I can be bothered to re-implem
 - [x] day 11
 - [x] day 12
 - [x] day 13
-- [ ] day 14
-- [ ] day 15
+- [x] day 14
+- [x] day 15
 - [ ] day 16
 - [ ] day 17
 - [ ] day 18
