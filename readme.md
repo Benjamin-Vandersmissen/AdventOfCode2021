@@ -21,7 +21,7 @@ All solutions are implemented in python 3, unless I can be bothered to re-implem
 - [x] day 18
 - [x] day 19
 - [x] day 20
-- [ ] day 21
+- [x] day 21
 - [ ] day 22
 - [ ] day 23
 - [ ] day 24
