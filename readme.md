@@ -24,5 +24,5 @@ All solutions are implemented in python 3, unless I can be bothered to re-implem
 - [x] day 21
 - [x] day 22
 - [x] day 23
-- [ ] day 24
+- [x] day 24
 - [ ] day 25
